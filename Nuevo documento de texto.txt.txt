@@ -1,0 +1,3 @@
+# Archivos que no se guardan en el repositorio 
+Nuevo documento de texto.txt.txt
+#Carpeetas que no se guardan en el repositorio 
